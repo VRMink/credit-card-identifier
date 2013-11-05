@@ -1,6 +1,6 @@
 Credit Card Identifier
 =============
-Identifies credit and debit cards based on their number (PAN).
+Correctly identifies cards from VISA, Amex, Mastercard, Diners, Discover, JCB, Switch, Solo, Dankort, Maestro, Forbrugsforeningen, Laser.
 
 Interface
 -----
