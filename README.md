@@ -1,6 +1,5 @@
 Credit Card Identifier
 =============
-
 Identifies credit and debit cards based on their number (PAN).
 
 Interface
