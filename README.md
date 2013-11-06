@@ -7,7 +7,7 @@ Interface
 ```js
 ccId.find('pan');
 ```
-
+Given a PAN represented as a string, the find method will return the name of the card scheme or 'Unknown'.
 Usage
 -----
 ```js
