@@ -13,13 +13,8 @@ describe("Credit Card Identifier can identify", function(){
 	})
 
 	it("Amex", function(){
-		ccId.find('349237692562216').should.eql('AMEX')
-		ccId.find('375886564589009').should.eql('AMEX')
-	})
-
-	it("Diners", function(){
-		ccId.find('3011286804723969').should.eql('Diners')
-		ccId.find('3026210028069895').should.eql('Diners')
+		ccId.find('349237692562216').should.eql('Amex')
+		ccId.find('375886564589009').should.eql('Amex')
 	})
 
 })
