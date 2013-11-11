@@ -1,6 +1,6 @@
 { 
 	"name" : "credit-card-identifier",
-	"version" : "0.1.3",
+	"version" : "0.1.4",
 	"description" : "Correctly identifies cards from VISA, Amex, Mastercard, Diners, Discover, JCB, Switch, Solo, Dankort, Maestro, Forbrugsforeningen, Laser.",
 	"author": {
 		"name": "Vincens Riber Mink",
@@ -8,7 +8,7 @@
 	},
 	"repository": {
 			"type": "git",
-			"url": "https://github.com/ExxKA/credit-card-identifier"
+			"url": "https://github.com/VRMink/credit-card-identifier"
 		},
 	"main": "./lib/index.js",
 	"scripts": {
