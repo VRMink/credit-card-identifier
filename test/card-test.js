@@ -26,5 +26,9 @@ describe("Credit Card Identifier can identify", function() {
     identifyCard('6011111111111117').should.eql('Discover');
     identifyCard('6221261111113245').should.eql('Discover');
   });
+
+  it('Maestro', function() {
+    identifyCard('6799990100000000019').should.eql('Maestro');
+  });
 });
 
